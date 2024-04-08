@@ -16,6 +16,7 @@
       - -[ ] POP: Prompt Of Prompts for Continual Learning (Arxiv, 2023)
       - -[ ] Steering Prototypes with Prompt-tuning for Rehearsal-free Continual Learning (WACV, 2024)
       - -[ ] KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All (ICLR, 2024, underreview)
+      - -[x] CPrompt: Consistent Prompting for Rehearsal-Free Continual Learning (CVPR, 2024)
     - **W/o Prompt**
       - -[x] Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need (Arxiv, 2023)
       - -[ ] Read Between the Layers: Leveraging Intra-Layer Representations for Rehearsal-Free Continual Learning with Pre-Trained Models (Arxiv, 2023)
