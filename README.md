@@ -32,7 +32,7 @@
       - -[ ] Instance and Category Supervision are Alternate Learners for Continual Learning(ICCV, 2023)
 - **Vision Language**
   - -[ ] Climb: A Continual Learning Benchmark for Vision-and-Language Tasks (NIPs, 2022)
-  - -[ ] Continual Vision-Language Representation Learning with Off-Diagonal Information (ICML, 2023)
+  - -[x] Continual Vision-Language Representation Learning with Off-Diagonal Information (ICML, 2023)
   - -[x] CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation (ICCV, 2023)
   - -[ ] Generative Negative Text Replay for Continual Vision-Language Pretraining (ECCV, 2022)
   - -[ ] Learning without Forgetting for Vision-Language Models (Arxiv, 2023)
