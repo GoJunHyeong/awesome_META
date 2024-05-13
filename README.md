@@ -23,6 +23,7 @@
       - -[ ] RanPAC: Random Projections and Pre-trained Models for Continual Learning (NIPs, 2023)
       - -[ ] SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model (ICCV, 2023)
       - -[ ] When Prompt-based Incremental Learning Does Not Meet Strong Pretraining (ICCV, 2023)
+      - -[x] Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters (CVPR, 2024) [[paper]](https://arxiv.org/pdf/2403.11549)
   - **From-scratch model-based**
     - **Regularization**
     - **Model**
