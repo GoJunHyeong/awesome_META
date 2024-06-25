@@ -1,5 +1,5 @@
 - **CVPR2024**
-  - -[ ] Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation
+  - -[x] Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation
   - -[ ] Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters
   - -[ ] ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning
   - -[ ] Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer
