@@ -28,7 +28,7 @@
   - -[ ] Dual-Consistency Model Inversion for Non-Exemplar Class Incremental Learning
   - -[ ] Towards Efficient Replay in Federated Incremental Learning
   - -[ ] Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer
-  - -[ ] Class Incremental Learning with Multi-Teacher Distillation
+  - -[x] Class Incremental Learning with Multi-Teacher Distillation
   - -[ ] NICE: Neurogenesis Inspired Contextual Encoding for Replay-free Class Incremental Learning
   - -[ ] Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners
   - -[ ] ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization
