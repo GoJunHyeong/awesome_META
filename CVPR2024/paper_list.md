@@ -20,7 +20,7 @@
   - -[ ] Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation
   - -[ ] Defense without Forgetting: Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay
   - -[ ] Convolutional Prompting meets Language Models for Continual Learning
-  - -[ ] Resurrecting Old Classes with New Data for Exemplar-Free Continual Learning
+  - -[x] Resurrecting Old Classes with New Data for Exemplar-Free Continual Learning
   - -[ ] Enhancing Visual Continual Learning with Language-Guided Supervision
   - -[ ] Learning Continual Compatible Representation for Re-indexing Free Lifelong Person Re-identification
   - -[ ] BrainWash: A Poisoning Attack to Forget in Continual Learning
