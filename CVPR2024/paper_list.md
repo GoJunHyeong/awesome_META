@@ -38,7 +38,7 @@
   - -[ ] Long-Tail Class Incremental Learning via Independent Sub-prototype Construction
   - -[ ] FCS: Feature Calibration and Separation for Non-Exemplar Class Incremental Learning
   - -[ ] Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation
-  - -[ ] OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning
+  - -[x] OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning
   - -[ ] SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection
   - -[ ] Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning
   - -[ ] Dual-Enhanced Coreset Selection with Class-wise Collaboration for Online Blurry Class Incremental Learning
