@@ -24,7 +24,7 @@
   - -[ ] Enhancing Visual Continual Learning with Language-Guided Supervision
   - -[ ] Learning Continual Compatible Representation for Re-indexing Free Lifelong Person Re-identification
   - -[ ] BrainWash: A Poisoning Attack to Forget in Continual Learning
-  - -[ ] Traceable Federated Continual Learning
+  - -[x] Traceable Federated Continual Learning
   - -[ ] Dual-Consistency Model Inversion for Non-Exemplar Class Incremental Learning
   - -[ ] Towards Efficient Replay in Federated Incremental Learning
   - -[ ] Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer
